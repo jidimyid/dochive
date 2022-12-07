@@ -1,0 +1,31 @@
+section {
+    background: #1E1E1E;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background-position: center;
+    background-size: cover;
+    top: 0;
+    z-index: -1;
+}
+
+
+.button-top{
+    background-color: #802BB1; 
+    border: none;
+    border-radius: 35px; 
+    color: #000; 
+    padding: 10px; 
+    text-align: center; 
+    text-decoration: none; 
+    display: inline-block; 
+    font-size: 15px; 
+    margin: 4px 2px;
+  }
+  
+  .container-card {
+    box-sizing: border-box;
+    height: 175;
+    width: 225;
+    background-color: #D9D9D9;
+  }
