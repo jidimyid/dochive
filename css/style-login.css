@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.submit-button {
+    position: relative;
+    top: 70%;
+    left: 35%;
+    background-color:#5C7ACC;
+    color: #fff;
+    border:none; 
+    border-radius:27px; 
+    min-height:30px; 
+    min-width: 120px;
+}
